@@ -1,6 +1,7 @@
 # Next-POI-Recommendation-with-Dynamic-Graph-and-Explicit-Dependency
 AAAI 23
 
+![SNPM](images/f1.png)
 The pytorch environment is needed, and you should ensure the data folder and WORK folder in the directory of this file, whether they are empty or not is irrelevant.
 
 1. If you want to run the code, you first need to follow the experiments section of the paper to download the Gowalla dataset.
@@ -24,4 +25,3 @@ The pytorch environment is needed, and you should ensure the data folder and WOR
 
 7. run the train.py. It is the final step, you will get the best results in 35 epoch. 
 
-[f1.pdf](https://github.com/Shirley-YFY/Next-POI-Recommendation-with-Dynamic-Graph-and-Explicit-Dependency/files/10090005/f1.pdf)
