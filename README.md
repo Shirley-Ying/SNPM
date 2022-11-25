@@ -1,7 +1,7 @@
 # Next-POI-Recommendation-with-Dynamic-Graph-and-Explicit-Dependency
 AAAI 23
 
-#The pytorch environment is needed, and you should ensure the data folder and WORK folder in the directory of this file, whether they are empty or not is irrelevant.
+# The pytorch environment is needed, and you should ensure the data folder and WORK folder in the directory of this file, whether they are empty or not is irrelevant.
 
 1. If you want to run the code, you first need to follow the experiments section of the paper to download the Gowalla dataset.
    Then you will get the checkins-gowalla.txt
