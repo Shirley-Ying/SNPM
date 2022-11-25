@@ -21,7 +21,7 @@ The pytorch environment is needed, and you should ensure the data folder and WOR
     This process will take a lot of time, almost half an hour, please be patient.   
     this process will  create the I.npy, list_centroids.npy, vecs_use.npy, list_number.npy  four files.
 
-6, run the train_copy.py, you wiill get the WORK/dyn_network_30.pth. It is the pre-train neighbor graph.
+6. run the train_copy.py, you wiill get the WORK/dyn_network_30.pth. It is the pre-train neighbor graph.
 
 7. run the train.py. It is the final step, you will get the best results in 35 epoch. 
 
