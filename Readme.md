@@ -4,7 +4,7 @@ AAAI 23
 ![SNPM](images/f1.png)
 The pytorch environment is needed, and you should ensure the data folder and WORK folder in the directory of this file, whether they are empty or not is irrelevant.
 
-1. If you want to run the code, you first need to follow the experiments section of the paper to download the Gowalla dataset.
+1. If you want to run the code, Please redirect to this URL https://github.com/eXascaleInfolab/Flashback_code
    Then you will get the checkins-gowalla.txt
 
 2. You need to put this Checkin file in the data folder, Then directly run the utils.py in RotatE_prepare folder.
